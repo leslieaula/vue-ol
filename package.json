@@ -1,0 +1,30 @@
+{
+  "name": "vue-ol",
+  "version": "1.0.0",
+  "description": "Openlayers Wrapper for VueJS",
+  "main": "src/vue-ol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukandax/vue-ol.git"
+  },
+  "keywords": [
+    "Vue",
+    "VueJS",
+    "Openlayers",
+    "Openlayer",
+    "Map",
+    "OL"
+  ],
+  "author": "Rukanda Faridsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rukandax/vue-ol/issues"
+  },
+  "homepage": "https://github.com/rukandax/vue-ol#readme",
+  "dependencies": {
+    "ol": "^4.4.1"
+  }
+}
